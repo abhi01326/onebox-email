@@ -1,0 +1,62 @@
+# === Node.js ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# === Logs ===
+logs
+*.log
+logs/*.log
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# === Build Outputs ===
+dist/
+build/
+.next/
+.cache/
+coverage/
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+
+# === Editor Files ===
+.vscode/
+.idea/
+*.swp
+
+# === Temporary Files ===
+tmp/
+temp/
+*.tmp
+*.bak
+*.orig
+
+# === ESLint / TypeScript ===
+*.tsbuildinfo
+
+# === React ===
+*.env.development
+*.env.production
+
+# === SQLite / Databases ===
+*.db
+*.sqlite
+*.sqlite3
+
+# === Misc ===
+.env.backup
+*.pem
+*.crt
+*.key
