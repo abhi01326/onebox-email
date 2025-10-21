@@ -57,7 +57,7 @@ reachinbox-onebox/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/reachinbox-onebox.git
+git clone https://github.com/abhi01326/reachinbox-onebox.git
 cd reachinbox-onebox
 ```
 
